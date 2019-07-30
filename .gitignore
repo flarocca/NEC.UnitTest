@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+target/
+.vscode/
+.settings/
+.vs/
+.classpath/
+.project/
